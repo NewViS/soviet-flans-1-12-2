@@ -1,0 +1,11 @@
+{
+	"audi_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:audi_engine" ]
+	},
+	
+	"audi_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:audi_start" ]
+	}
+}

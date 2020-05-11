@@ -1,0 +1,11 @@
+{
+	"zaz_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zaz_engine" ]
+	},
+	
+	"zaz_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zaz_start" ]
+	}
+}

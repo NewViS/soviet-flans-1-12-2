@@ -1,0 +1,11 @@
+{
+	"azlk_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:azlk_engine" ]
+	},
+	
+	"azlk_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:azlk_start" ]
+	}
+}

@@ -1,0 +1,13 @@
+Name statusdisk_slik184s
+ShortName statusdisk_slik184s
+Icon disk_slik184s
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc, Disk
+Category Disk
+StackSize 1
+RecipeOutput 1
+Recipe I ingotIron G ingotGold
+GII
+GII
+   

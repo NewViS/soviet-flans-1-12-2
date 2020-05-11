@@ -1,0 +1,27 @@
+# Build and Bins
+.gradle/
+build/
+bin/
+out/
+run/*
+
+# IDEs
+.classpath
+.project
+.settings/
+eclipse/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# System
+Thumbs.db
+.DS_Store
+
+# Flan's Mod
+!run/Flan/
+
+# Flan's Scripts
+upload.bat
+*.launch

@@ -1,0 +1,21 @@
+{
+	"gaz_aa_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gaz_aa_engine" ]
+	},
+	
+	"gaz_aa_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gaz_aa_start" ]
+	},
+	
+	"volga_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:volga_start" ]
+	},
+	
+	"volga_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:volga_engine" ]
+	}
+}

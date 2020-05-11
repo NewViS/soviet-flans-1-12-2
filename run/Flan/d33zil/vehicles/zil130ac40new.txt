@@ -1,0 +1,115 @@
+﻿//---Standard Vehicle Config for Flans Mod--------
+//Created by Minecraft-SMP Toolbox 2.3.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Zil 130 AC 40 NEW
+ShortName zil130ac40new
+
+
+// Visuals
+Model d33zil.zil130ac40new
+ModelScale 1.0
+Icon zil_logo
+
+// Recipe
+AddRecipeParts core 1 SMP_Part_Chassis_Truck 30 SMP_Part_Mat_Plate_Steel
+AddRecipeParts frontLeftWheel 1 SMP_Part_Wheel_Truck
+AddRecipeParts frontRightWheel 1 SMP_Part_Wheel_Truck
+AddRecipeParts backLeftWheel 1 SMP_Part_Wheel_Truck
+AddRecipeParts backRightWheel 1 SMP_Part_Wheel_Truck
+AddDye 8 red
+
+//Misc
+
+//------------------------------------------------
+
+//---Driveables-----------------------------------
+//Visuals
+Model d33zil.zil130ac40new
+Texture smz
+
+
+//Movement
+MaxThrottle 0.85
+MaxNegativeThrottle 0.5
+Drag 1
+
+
+//Wheels
+NumWheels 4
+WheelPosition 0 -39 -10 -22
+WheelPosition 1 -39 -10 22
+WheelPosition 2 57 -10 22
+WheelPosition 3 57 -10 -22
+WheelRadius 1
+SpringStrength 0.5
+
+
+//Floating
+
+
+//Ammo
+
+
+//Weapons
+
+
+//Driver and Passengers
+Driver 27 20 -15
+Passengers 5
+Passenger 1 27 20 0 core
+Passenger 2 27 20 15 core
+Passenger 3 1 20 15 core
+Passenger 4 1 20 0 core
+Passenger 5 1 20 -15 core
+
+
+//Inventory Slots
+CargoSlots 36
+FuelTankSize 8000
+
+
+//Recipe
+
+
+//Health and Collision
+SetupPart core 1000 -24 -2 -19 45 21 38
+SetupPart core 1000 -42 -2 -18 18 11 36
+SetupPart core 500 22 -2 -18 22 11 36
+SetupPart frontRightWheel 100 26 -10 -18 14 14 5
+SetupPart backRightWheel 100 -28 -10 -18 14 14 5
+SetupPart frontLeftWheel 100 26 -10 13 14 14 5
+SetupPart backLeftWheel 100 -28 -10 13 14 14 5
+
+
+//Misc
+CameraDistance 12
+
+
+//Sounds
+StartSound zil130_start
+StartSoundLength 23
+EngineSound zil130_engine
+EngineSoundLength 24
+
+//------------------------------------------------
+
+//---Vehicle--------------------------------------
+//Visuals
+RotateWheels True
+
+
+//Movement
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+
+//Misc
+
+
+//Sound
+
+//------------------------------------------------

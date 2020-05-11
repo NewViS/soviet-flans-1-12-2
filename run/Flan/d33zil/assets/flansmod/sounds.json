@@ -1,0 +1,11 @@
+{
+	"zil130_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zil130_engine" ]
+	},
+	
+	"zil130_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zil130_start" ]
+	}
+}

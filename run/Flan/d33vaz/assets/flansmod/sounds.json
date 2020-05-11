@@ -1,0 +1,21 @@
+{
+	"vaz_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:vaz_engine" ]
+	},
+	
+	"vaz_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:vaz_start" ]
+	},
+	
+	"inj_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:inj_start" ]
+	},
+	
+	"inj_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:inj_engine" ]
+	}
+}

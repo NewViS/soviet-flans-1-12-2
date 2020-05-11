@@ -1,0 +1,13 @@
+Name koleso2141_2141
+ShortName koleso2141_2141
+Icon disk_azlk_2141
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc, Disk
+Category Disk
+StackSize 1
+RecipeOutput 1
+Recipe I ingotIron G ingotGold
+GII
+GII
+   

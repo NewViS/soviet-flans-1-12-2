@@ -1,0 +1,13 @@
+Name VLGdisc_volga3110
+ShortName VLGdisc_volga3110
+Icon disk_vlg_3110
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc, Disk
+Category Disk
+StackSize 1
+RecipeOutput 1
+Recipe I ingotIron G ingotGold
+GII
+GII
+   

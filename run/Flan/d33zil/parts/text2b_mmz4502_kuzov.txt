@@ -1,0 +1,13 @@
+Name text2b_mmz4502_kuzov
+ShortName text2b_mmz4502_kuzov
+Icon text2b_mmz4502_kuzov
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc, Disk
+Category Disk
+StackSize 1
+RecipeOutput 1
+Recipe I ingotIron G ingotGold
+GII
+GII
+   
